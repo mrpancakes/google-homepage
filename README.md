@@ -1,1 +1,1 @@
-This is my first HTML project in the Odin cirriculum.
+This is my first HTML project in the Odin cirriculum
